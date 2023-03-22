@@ -1,0 +1,71 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies)
+1203930950795439,2023-02-08,2023-03-18,2023-03-18,Test Planning,Done,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1203930950795441,2023-02-08,2023-03-18,2023-03-18,Requirements analysis,Done,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1203930950795443,2023-02-08,2023-03-18,2023-03-18,Test Design,Done,,,,,,"Formular login
+1.User si parola corecta apoi apasam butonul de login
+2.User corect si parola invalida apoi apasam butonul de login
+3.User corect si camp parola gol apoi apasam butonul de login
+4.Camp user gol si parola corecta apoi apasam butonul de login
+
+Pagina de produse
+1.Verificare lista produse
+2.Detalii produs in produsul individual (zoom)
+3.Testarea butonului back din detalii produs
+4.
+
+Buton de filtru
+1.Sortare lista Name (A-Z)
+2.Sortare lista Name (Z-A)
+3.Sortare lista Price(low to high)
+4.Sortare lista Price(lhigh to low)
+
+Afisarea produselor
+1.Adaugare un produs in cos
+2.Adaugare toate (6) produsele in cos
+
+Cosul de cumparaturi
+1.Testare buton remove product list(main page)
+2.Testare buton remove din pagina cos de cumparaturi
+3.Testare ""continue shopping""
+4.Verificare detalii produse din cosul de cumparaturi
+5.Testare buton de checkout cu produse in cos
+6.Verificare cos cumparaturi la prima logare
+
+
+Checkout
+
+1.Testare checkout cu date corecte client
+2.Testare checkout cu date incomplete client
+3.Testare buton continue din pagina de checkout
+4.Testare buton cancel din pagina de checkout
+
+Overview
+1.Testare buton finish din overview
+2.Testare buton cancel din overview
+
+Finalizare comanda
+1.Testare buton ""back to home""
+
+
+",Grupa_Nov22_Alexandra B.,,,
+1203930950795447,2023-02-08,2023-03-18,2023-03-18,Test Implementation,Done,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1203930950795445,2023-02-08,2023-03-18,2023-03-18,Test Estimation,Done,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1203971888731318,2023-02-15,,2023-02-15,Test Planning -estimated: 1 hour -actual: 1 hour,,,,,,,,,Test Estimation,,
+1203971894482150,2023-02-15,,2023-03-08,Requirements analysis -estimated: 1 hour -actual: 1 hour,,,,,,,,,Test Estimation,,
+1203971894482151,2023-02-15,,2023-03-18,Test Design -estimated: 1 hour -actual: 2 hours,,,,,,,,,Test Estimation,,
+1203971894482152,2023-02-15,,2023-03-18,Test implementation -estimated: 3 hours - actual: 5 hours,,,,,,,,,Test Estimation,,
+1204208348723167,2023-03-18,,2023-03-18,Test execution - estimated:2 hours - actual: 3 hours,,,,,,,,,Test Estimation,,
+1204208348723168,2023-03-18,,2023-03-18,Test closure activities - estimated: 0.5 hour - actual: 1 hour,,,,,,,,,Test Estimation,,
+1203930950795449,2023-02-08,2023-03-18,2023-03-18,Test Execution,Done,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1203930950795451,2023-02-08,2023-03-22,2023-03-22,Test Monitoring and control,Done,bogdan.barbusiu@itschool.ro,bogdan.barbusiu@itschool.ro,,,,,Grupa_Nov22_Alexandra B.,,,
+1204178679952211,2023-03-14,2023-03-15,2023-03-15,la requirements analysis nu ai atasat documentul facut dupa review-ul de la curs,,,,,,,,,Test Monitoring and control,,
+1204178679952213,2023-03-14,2023-03-18,2023-03-18,La test design Ai putea sa te mai gandesti la niste scenarii de testare cum a fost exemplul de la curs ce se intampla daca am 2 produse si dau logout/login - produsele ar trebui sa ramana in cos - am povestit si la curs,,,,,,,,,Test Monitoring and control,,
+1204178679952215,2023-03-14,2023-03-18,2023-03-18,Prioritatile testelor ar trebui si sunt diferite - tu ai pus high la toate....un test in care verifici ca ti se afiseaza toate produsele este mult mai prioritare decat un test: verificare daca la deschiderea paginii de login cursorul ramane in caseta username,,,,,,,,,Test Monitoring and control,,
+1204178679952217,2023-03-14,2023-03-18,2023-03-18,la test implementation in test case id ai id-ul 1 si la formular de login si la pagina de produse - ele ar trebui sa fie unice,,,,,,,,,Test Monitoring and control,,
+1204178679952219,2023-03-14,2023-03-18,2023-03-18,"nu ai atasat TSR pentru ""userul"" performance glitch",,,,,,,,,Test Monitoring and control,,
+1203930950795453,2023-02-08,2023-03-22,2023-03-22,Test Closure activities,Done,,,,,,"Timpul alocat proiectului a fost suficient. 
+In cadrul proiectului am folosit instrumente pe care le-am studiat la curs .
+Modul de impartire al proiectului a fost avantajos .",Grupa_Nov22_Alexandra B.,,,
+1204153070147564,2023-03-11,2023-03-18,2023-03-18,Bugs_locked_out_user,Bugs,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1204153070147568,2023-03-11,2023-03-18,2023-03-18,Bugs_problem_user,Bugs,,,,,,,Grupa_Nov22_Alexandra B.,,,
+1204208348723181,2023-03-18,2023-03-18,2023-03-18,Bugs_performance_glitch_user,Bugs,,,,,,,Grupa_Nov22_Alexandra B.,,,
